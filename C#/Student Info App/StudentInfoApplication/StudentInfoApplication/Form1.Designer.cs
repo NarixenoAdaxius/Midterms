@@ -188,7 +188,7 @@
             this.Controls.Add(this.lb2);
             this.Controls.Add(this.lb1);
             this.Name = "frmStudentInfo";
-            this.Text = "Form1";
+            this.Text = "Student Info";
             this.ResumeLayout(false);
             this.PerformLayout();
 
