@@ -1,0 +1,17 @@
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\bin\Debug\net6.0-windows\StudentInfoApplication.exe
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\bin\Debug\net6.0-windows\StudentInfoApplication.deps.json
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\bin\Debug\net6.0-windows\StudentInfoApplication.runtimeconfig.json
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\bin\Debug\net6.0-windows\StudentInfoApplication.dll
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\bin\Debug\net6.0-windows\StudentInfoApplication.pdb
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.AssemblyInfoInputs.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.AssemblyInfo.cs
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.dll
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\refint\StudentInfoApplication.dll
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.pdb
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\StudentInfoApplication.genruntimeconfig.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\StudentInfoApplication\StudentInfoApplication\obj\Debug\net6.0-windows\ref\StudentInfoApplication.dll
