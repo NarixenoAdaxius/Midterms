@@ -7,9 +7,9 @@ print('\nWelcome User')
 
 while True:
     print('\n----------------MENU----------------')
-    print('[A] Add familly member')
-    print('[B] Remove recently added familty member')
-    print('[C] Display recently added familly member')
+    print('[A] Add family member')
+    print('[B] Remove recently added family member')
+    print('[C] Display recently added family member')
     print('[D] Display saved family members')
     print('[E] Exit program')
     
@@ -23,7 +23,7 @@ while True:
         stack.pop()
         print('Successful')
     elif choice == 'C': 
-        print('Recently Added Familly member')
+        print('Recently Added Family member')
         print(stack[-1])
     elif choice == 'D': 
         print('Family members')
