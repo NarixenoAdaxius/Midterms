@@ -1,0 +1,14 @@
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\bin\Debug\Game.exe.config
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\bin\Debug\Game.exe
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\bin\Debug\Game.pdb
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.exe
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.pdb
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.Form2.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.Form3.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Game\Game\obj\Debug\Game.Form4.resources

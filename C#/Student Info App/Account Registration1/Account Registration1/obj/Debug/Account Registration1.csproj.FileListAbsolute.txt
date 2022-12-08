@@ -1,0 +1,11 @@
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\bin\Debug\Account Registration1.exe.config
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\bin\Debug\Account Registration1.exe
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\bin\Debug\Account Registration1.pdb
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account Registration1.csproj.AssemblyReference.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account Registration1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account_Registration1.Form1.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account_Registration1.Properties.Resources.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account Registration1.csproj.GenerateResource.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account Registration1.csproj.CoreCompileInputs.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account Registration1.exe
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Student Info App\Account Registration1\Account Registration1\obj\Debug\Account Registration1.pdb

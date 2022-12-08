@@ -1,0 +1,17 @@
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.exe
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.deps.json
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.runtimeconfig.json
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.dll
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.pdb
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.Form1.resources
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfo.cs
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.dll
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\refint\EmployeeApplication.dll
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.pdb
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.genruntimeconfig.cache
+C:\Users\CompLab504\Documents\GitHub\Midterms\C#\Employee Salary Calc\main\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\ref\EmployeeApplication.dll
