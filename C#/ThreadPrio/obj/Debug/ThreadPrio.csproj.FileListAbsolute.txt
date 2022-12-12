@@ -1,0 +1,10 @@
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\bin\Debug\ThreadPrio.exe.config
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\bin\Debug\ThreadPrio.exe
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\bin\Debug\ThreadPrio.pdb
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\obj\Debug\ThreadPrio.csproj.AssemblyReference.cache
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\obj\Debug\ThreadPrio.Form1.resources
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\obj\Debug\ThreadPrio.Properties.Resources.resources
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\obj\Debug\ThreadPrio.csproj.GenerateResource.cache
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\obj\Debug\ThreadPrio.csproj.CoreCompileInputs.cache
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\obj\Debug\ThreadPrio.exe
+C:\Users\arion\Documents\GitHub\Midterms\C#\ThreadPrio\obj\Debug\ThreadPrio.pdb
